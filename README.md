@@ -16,7 +16,7 @@ inorder to run code first activate the virtual environment
 
 for evaluation
 
-'python -m src.main'
+`python -m src.main`
 
 **Note:** by default the image path (line 44) is set as `data/faces/Adam_Hicks/9.jpg`.
 Feel free to try out with other classes and images. 
